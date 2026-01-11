@@ -1,6 +1,12 @@
 {
   "server": "lentil.social",
   "home-timeline-length": 200,
-  "max-followings": 80,
+  "max-followings": 50,
+  "max-followers": 0,
+  "max-follow-requests": 0,
   "from-notifications": 1
+  "backfill-with-context": 0
+  "backfill-mentioned-users": 0
+  "remember-users-for-hours": 144,
+  "remember-hosts-for-days": 25,
 }
